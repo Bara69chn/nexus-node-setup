@@ -3,7 +3,7 @@
 ## 📌 Prerequisites
 - Ubuntu 20.04 / 22.04
 - ≥ 12 CPU threads
-- ≥ 16 GB RAM (recommended: 32 GB+)
+- ≥ 47 GB RAM (recommended: 32 GB+)
 - git, curl, build-essential, pkg-config, libssl-dev, protobuf-compiler
 
 ```bash
